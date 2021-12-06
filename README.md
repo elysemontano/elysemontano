@@ -4,5 +4,5 @@
 - 🚗 My journey into coding started last year when I decided to continue my education beyond Media Communications by joining several developer training websites.  Shortly thereafter I enrolled in LEARN Academy and began strengthening my skills as a developer utilizing the most up to date and commonly used languages, frameworks and other developer tools.
 - 🌱 I’m currently pursuing a BS in Computer Science and have completed LEARN Academy's coding bootcamp
 - 📚 The tech stack I am most familiar with is React and Ruby on Rails, however I am digging into C++ currently.
-- 📫 My portfolio can be found at https://elysemontano.bss.design/ to read more about me and the projects I have worked on!
+- 📫 My portfolio can be found at https://elysemontano.com to read more about me and the projects I have worked on!
 
