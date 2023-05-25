@@ -1,6 +1,6 @@
 <div style="background-color: rgb(41, 45, 62); padding-bottom: 20px">
   <div style="width: 100%;">
-    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="banner.svg" style="width: 100%;" alt="">
   </div>
   <div align="center" style="padding: 40px; color:white">
     <p>I am a Lead Instructor at LEARN Academy where I get to teach web development to the next generation of amazing coders! I have a passion for working with others, encouraging them to grow, for coding (because you know, it is pretty cool!), and solving puzzles.</p>
