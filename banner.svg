@@ -44,7 +44,6 @@
           background-color: purple;
           color: white;
           text-align: center;
-          padding: 20px;
         }
         @media (prefers-reduced-motion) {
           .container {
@@ -59,7 +58,8 @@
 
       <div class="container">
         <h1 class="header">👋 Hi, I'm Elyse</h1>
-        <h3>Full stack developer and Lead instructor</h3>
+        <h3>Full stack developer</h3>
+        <h3>Lead instructor at LEARN Academy</h3>
       </div>
     </div>
   </foreignObject>
