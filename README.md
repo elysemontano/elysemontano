@@ -7,9 +7,10 @@
     <p>My journey into coding started at the end of 2020 when I decided to continue my education beyond Media Communications by joining several developer training websites.  Shortly thereafter I enrolled in LEARN Academy and began strengthening my skills as a developer utilizing the most up to date and commonly used languages, frameworks and other developer tools, where I now not only get to create awesome applications, but I also get to teach web development.</p>
   </div>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elysemontano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elysemontano&theme=material-palenight)](https://git.io/streak-stats)
   ![Elyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=elysemontano&count_private=true&show_icons=true&theme=material-palenight&hide=stars,issues)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elysemontano&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
