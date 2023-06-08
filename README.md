@@ -29,7 +29,7 @@
           <a href="https://www.elysemontano.com/" target="blank">Portfolio</a>
         </p>
     </div>
-    <p align="center">&ensp; I am a Lead Instructor at LEARN Academy where I get to teach web development to the next generation of amazing coders! I have a passion for working with others, encouraging them to grow in their coding skills (because you know, it is pretty cool!), and solving puzzles.</p>
+    <p>&ensp; I am a Lead Instructor at LEARN Academy where I get to teach web development to the next generation of amazing coders! I have a passion for working with others, encouraging them to grow in their coding skills (because you know, it is pretty cool!), and solving puzzles.</p>
     <p>&ensp; My journey into coding started at the end of 2020 when I decided to continue my education beyond Media Communications by joining several developer training websites.  Shortly thereafter I enrolled in LEARN Academy and began strengthening my skills as a developer utilizing the most up to date and commonly used languages, frameworks and other developer tools, where I now not only get to create awesome applications, but I also get to teach web development.</p>
   </div>
 
