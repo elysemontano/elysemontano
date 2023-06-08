@@ -24,10 +24,14 @@
    </div>
      <div align="center">
         <h3>Connect with me: </h3>
-        <p>
-          <a href="https://www.linkedin.com/in/elysemontano/" target="blank"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3271733/linkedin-shiny-icon-md.png" alt="" width="20" /></a>&nbsp&nbsp
-          <a href="https://www.elysemontano.com/" target="blank">Portfolio</a>
-        </p>
+        <div id="badges">
+          <a href="https://www.linkedin.com/in/elysemontano/" target="blank">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35"/>
+          </a>
+          <a href="https://www.elysemontano.com" target="blank"/>
+            <img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio" height="35"/>
+          </a>
+        </div>
     </div>
     <p>&ensp; I am a Lead Instructor at LEARN Academy where I get to teach web development to the next generation of amazing coders! I have a passion for working with others, encouraging them to grow in their coding skills (because you know, it is pretty cool!), and solving puzzles.</p>
     <p>&ensp; My journey into coding started at the end of 2020 when I decided to continue my education beyond Media Communications by joining several developer training websites.  Shortly thereafter I enrolled in LEARN Academy and began strengthening my skills as a developer utilizing the most up to date and commonly used languages, frameworks and other developer tools, where I now not only get to create awesome applications, but I also get to teach web development.</p>
