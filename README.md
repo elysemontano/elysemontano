@@ -1,6 +1,6 @@
 <div style="background-color: rgb(41, 45, 62); padding-bottom: 20px">
   <div style="width: 100%;">
-    <img src="banner.svg" style="width: 100%;" alt="">
+    <img src="welcome-image.png" style="width: 100%;" alt="">
   </div>
   <div text-align="center" style="padding: 40px; color:white">
     <div align="center">
